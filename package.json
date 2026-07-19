@@ -7,11 +7,30 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
+    "cors": "^2.8.6",
+    "db": "^6.0.3",
     "debug": "~2.6.9",
+    "dotenv": "^17.4.2",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^7.5.0",
     "morgan": "~1.9.1",
     "request": "^2.88.2"
-  }
+  },
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugo1103/myapp2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ugo1103/myapp2/issues"
+  },
+  "homepage": "https://github.com/ugo1103/myapp2#readme"
 }
